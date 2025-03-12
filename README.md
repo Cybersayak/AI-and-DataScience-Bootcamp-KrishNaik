@@ -1,2 +1,2 @@
-# Complete-Data-ML-Bootcamp-Udemy
-By @krishnaik06
+# Learning-Data Analysis ,Big Data Engineering ,Generative AI , Machine Learning and MLOps in Bootcamp
+By [Krish Naik](https://www.krishnaik.in/)
